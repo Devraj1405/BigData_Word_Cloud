@@ -1,0 +1,1 @@
+This is an empty folder that I have added, when the program will be runned, the sub documetns will be created and saved in this folder.
